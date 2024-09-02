@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://dev.to/http://www.asilhub.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://www.asilhub.net/" height="30" width="40" /></a>
 <a href="https://twitter.com/asilihub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asilihub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asili-hub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asili-hub/" height="30" width="40" /></a>
 <a href="https://instagram.com/asilihub_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asilihub_" height="30" width="40" /></a>
 </p>
 
